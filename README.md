@@ -29,4 +29,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=kotchanan1&color=red)
 ![](https://komarev.com/ghpvc/?username=kotchanan1&color=ff69b4)
 
-src="(https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=bb5a1c3adi7895icf221yveajuakt4sz4yofetu5qqli3lt7&ep=v1_gifs_trending&rid=giphy.gif&ct=g)" width="100" height="100" />
+src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=bb5a1c3adi7895icf221yveajuakt4sz4yofetu5qqli3lt7&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100" height="100" />
